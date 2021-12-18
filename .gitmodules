@@ -1,0 +1,15 @@
+[submodule "3-lemonade-app"]
+	path = 3-lemonade-app
+	url = ./3-lemonade-app/
+[submodule "6-dogglers-app"]
+	path = 6-dogglers-app
+	url = ./6-dogglers-app/
+[submodule "7-dictionary-app"]
+	path = 7-dictionary-app
+	url = ./7-dictionary-app/
+[submodule "8-dessert-clicker-app"]
+	path = 8-dessert-clicker-app
+	url = ./8-dessert-clicker-app/
+[submodule "intro-app"]
+	path = intro-app
+	url = ./intro-app/
